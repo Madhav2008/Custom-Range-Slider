@@ -1,1 +1,1 @@
-# Custom-Range-Slider
+# Custom-Range-Slider-Using-HTML-CSS-And-JavaScript
